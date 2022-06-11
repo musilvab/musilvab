@@ -1,10 +1,5 @@
-### Eai, eu sou o Murilo 👋
+### Oi, eu sou o Murilo 👋
 ##
-
-- 🌱 Atualmente estou estudando HTML5 e CSS3
-- 👯 Busco trabalhar na area de desenvolvimento de softwares
-- ⚡ Curiosidade sobre mim : Gosto de lasanha
-
 <div align="justify">
   <a href="https://github.com/musilvab">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=musilvab&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
