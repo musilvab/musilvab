@@ -1,4 +1,4 @@
-### Oi, eu sou o Murilo 👋
+### Oi, eu sou o Murilo ✌
 ##
 <div align="justify">
   <a href="https://github.com/musilvab">
