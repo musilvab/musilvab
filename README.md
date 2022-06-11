@@ -3,7 +3,6 @@
 
 - 🌱 Atualmente estou estudando HTML5 e CSS3
 - 👯 Busco trabalhar na area de desenvolvimento de softwares
-- 😄 Pronomes: ele/dele
 - ⚡ Curiosidade sobre mim : Gosto de lasanha
 
 <div align="justify">
