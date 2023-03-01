@@ -1,6 +1,6 @@
 <h1>Oi eu me chamo Murilo</h1>
 
-Recém formado, estou estudano FrontEnd, tenho um certo conhecimento sobre HTML5 e CSS3, e estou estudando JavaScript.
+Recém formado, estou estudano FrontEnd, tenho um certo conhecimento sobre HTML5 e CSS3, e estou estudando JavaScript. Caso queira ver o que eu estou estudando, está tudo nos meus repositórios!
 
 
 <div style="display: inline_block">
