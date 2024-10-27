@@ -14,7 +14,6 @@ Sou uma pessoa que se interessa muito por tecnologia, e coloco aqui no perfil os
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width='50px'/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width='50px'/>
   <img src="  https://icons8.com.br/icon/lAWjO4LexGga/canva" width='50px'/>
-  <img src="https://icons8.com.br/icon/108784/javascript.svg" width='50px'>
 </p>
 
 ## Siga minha jornada! 📫
