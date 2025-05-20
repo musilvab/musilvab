@@ -11,9 +11,11 @@ Sou uma pessoa que se interessa muito por tecnologia, e coloco aqui no perfil os
 <p align="justify">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width='50px'/>       
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width='50px'/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width='50px' />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width='50px' />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width='50px'/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width='50px'/>
-  <img src="  https://icons8.com.br/icon/lAWjO4LexGga/canva" width='50px'/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width='50px' />
+          
 </p>
 
 ## Siga minha jornada! 📫
